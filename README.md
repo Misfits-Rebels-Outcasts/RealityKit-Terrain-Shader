@@ -66,4 +66,4 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ### Open Pipeline
 
-RealityKit Terrian Shader is part of a community project using the Open Pipeline to build the next generation of graphics design software. [Open Pipeline]([https://photorealityar.com/realitykit_terrainshader_surfaceshader_geometrymodifier.html](https://github.com/Misfits-Rebels-Outcasts/Nodef) reduces Cognitive Overload in graphics design with a simplified digital compositing node graph. It is to the user interface of graphics design software like Markdown is to HTML.
+RealityKit Terrian Shader is part of a community project using the Open Pipeline to build the next generation of graphics design software. [Open Pipeline](https://github.com/Misfits-Rebels-Outcasts/Nodef) reduces Cognitive Overload in graphics design with a simplified digital compositing node graph. It is to the user interface of graphics design software like Markdown is to HTML.
