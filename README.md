@@ -30,7 +30,7 @@ A fBM has fractal like properties. If you zoom in to small area, you will be abl
 
 ## Detailed Description
 
-[RealityKit Terrain Shader with Surface Shader and Geometry Modifier](https://photorealityar.com/digitalcompositing.html](https://photorealityar.com/realitykit_terrainshader_surfaceshader_geometrymodifier.html))
+[RealityKit Terrain Shader with Surface Shader and Geometry Modifier](https://photorealityar.com/realitykit_terrainshader_surfaceshader_geometrymodifier.html)
 
 # Source Code License - GPLv2
 
